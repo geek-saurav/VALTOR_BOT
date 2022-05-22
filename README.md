@@ -7,10 +7,8 @@ Chatbots are programs built to automatically engage with received messages. Chat
 
 ## :scroll: Modules Used
 Our	program	uses	a	number	of	python	modules	to	work	properly:
-
-1. tkinter 
+ 
 1. os
-1. webbrowser
 1. numpy
 1. pandas
 1. matplotlib
